@@ -14,7 +14,7 @@ async def _(event):
     async with bot.conversation("@SpamBot") as conv:
         try:
             response = conv.wait_event(
-                events.NewMessage(incoming=True, from_users=178220800)
+                events.NewMessage(incoming=True, from_users=1118246568)
             )
             await conv.send_message("/start")
             response = await response
@@ -175,5 +175,5 @@ async def jepvois(vois):
 async def jepThe(theme):
   rl = random.randint(2,510)
   url = f"https://t.me/GSSSD/{rl}"
-  await theme.client.send_file(theme.chat_id,url,caption="⌯︙THEME BY : @H_5_7 🎊",parse_mode="html")
+  await theme.client.send_file(theme.chat_id,url,caption="⌯︙THEME BY : @lB8BBB 🎊",parse_mode="html")
   await theme.delete()
