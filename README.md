@@ -7,5 +7,5 @@
 ![Repo Size](https://img.shields.io/github/repo-size/JepThon-AR/JM-THON?&style=flat-square&logo=github)
 
 ## الـقـناة ##
-   <a href="https://t.me/JepThon"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/lB8BBB"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p>
  - 
